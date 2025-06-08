@@ -8,7 +8,7 @@ import Newsletter from '../components/home/Newsletter';
 function HomePage() {
   // Update document title
   useEffect(() => {
-    document.title = 'Premium E-commerce';
+    document.title = 'LuxeMarket | Premium E-commerce';
   }, []);
   
   return (
