@@ -10,7 +10,7 @@ function CartPage() {
   
   // Set document title
   useEffect(() => {
-    document.title = 'Your Cart';
+    document.title = 'Your Cart | LuxeMarket';
     
     // Simulate loading state
     const timer = setTimeout(() => {
